@@ -296,7 +296,64 @@
 
 ## Data Sources
 
+### Dataset Lists/Repositories
+
+* [Splitograph](https://www.splitgraph.com/)
+* [Public Datasets for Machine Learning](https://www.altexsoft.com/blog/datascience/best-public-machine-learning-datasets/)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [FiveThirtyEight](https://data.fivethirtyeight.com/)
+* [DBPedia](https://www.dbpedia.org/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [Datahub](https://datahub.io/collections)
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+* [OpenML](https://www.openml.org/)
+
+### Dataset Search Engines
+
+* [Dataverse](https://dataverse.org/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+
+
+### Big Data
+
+* [Academic Torrents](https://academictorrents.com/)
+* [Big Query Open Datasets](https://cloud.google.com/bigquery/public-data)
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
+* [Azure Open Data](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-catalog)
+
+
+### Open Data
+
+#### Canada
+
+* [Canada Open Data](https://open.canada.ca/en/open-data)
+* [Ontario Open Data](https://data.ontario.ca/)
+* [Toronto Open Data](https://open.toronto.ca/)
+
+#### US
+
+* [Data.gov](https://www.data.gov/)
+* [US Census](https://www.census.gov/data.html)
+* [US Healthcare Data](https://researchguides.dartmouth.edu/c.php?g=517073&p=6289098)
+
+#### EU
+
+* [EU Open Data](https://data.europa.eu/data/datasets?locale=en)
+* [UK Data Service](https://ukdataservice.ac.uk/)
+
+#### Other
+
+* [World Bank](https://data.worldbank.org/)
+* [World Health Organization](https://www.who.int/data/gho/)
+* [Unicef](https://data.unicef.org/)
+* [CERN Open Data](http://opendata.cern.ch/)
+* [NASA Earth Data](https://earthdata.nasa.gov/)
+
+
+
+
 
 ## Interview Questions
 
